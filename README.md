@@ -1,6 +1,6 @@
-[![MasterHead](https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif)](https://rishavchanda.io)
-<h1 align="center">Assalomu Aleykum mening ismim Akmaljon kasbim Developer</h1>
-<h3 align="center">Full stack developer in Uzbekistan</h3>
+
+<h1 align="center">Assalomu Aleykum 👋 <br/> Mening ismim Akmaljon🙎🏻‍♂️ kasbim Developer👨🏻‍💻</h1>
+<h3 align="center">Full stack developer👨🏻‍💻 in Uzbekistan</h3>
 
 <img width="100%" height="500px" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coder Boy">
 

@@ -1,4 +1,3 @@
-
 <h1 align="center">Assalomu Aleykum 👋 <br/> Mening ismim Akmaljon🙎🏻‍♂️ kasbim Developer👨🏻‍💻</h1>
 <h3 align="center">Full stack developer👨🏻‍💻 in Uzbekistan</h3>
 

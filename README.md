@@ -1,4 +1,4 @@
-<h1 align="center">Assalomu Aleykum 👋 <br/> Mening ismim Akmaljon🙎🏻‍♂️ kasbim Developer👨🏻‍💻</h1>
+<h1 align="center">Assalomu Aleykum 👋 <br/> Mening ismim Akmaljon🙎🏻‍♂️ kasbim Dasturchi👨🏻‍💻</h1>
 <h3 align="center">Full stack developer👨🏻‍💻 in Uzbekistan</h3>
 
 <img width="100%" height="500px" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coder Boy">
